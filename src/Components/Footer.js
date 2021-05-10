@@ -34,7 +34,7 @@ export default function Footer() {
                             className="border p-3 text-uppercase text-center"
                             style={{ fontWeight: "bolder" }}
                         >
-                            Thank Your For Choosing Us!
+                            Thank You For Choosing Us!
                         </h1>
                     </Row>
                 </Col>
