@@ -15,6 +15,7 @@ body {
 .Cover {
     position: relative;
     height: inherit;
+    min-height: 50vh;
     max-height: 100vh;
     max-width: 100%;
 }
@@ -53,6 +54,7 @@ body {
     min-height: 100%;
     max-width: 100%;
     background-size: 100% 100%;
+    background-position: center;
 }
 .Services:hover {
     cursor: pointer;
@@ -79,6 +81,7 @@ body {
     background-image: url("./Assests/Images/welcome.jpg");
     background-size: 100% 100%;
     height: 100%;
+    min-height: 60vh;
     min-width: 100%;
 }
 .AboutCover::before {
@@ -121,8 +124,14 @@ body {
     font-size: 3rem !important;
     text-decoration: underline;
 }
-/* Medium devices (mobiles, 768px and below) */
+#footerContact h4 {
+    text-decoration: 2px underline #aaa;
+}
 
+#footerContact span {
+    margin-left: 0.5rem;
+}
+/* Medium devices (mobiles, 768px and below) */
 @media screen and (max-width: 767.98px) {
     .welcomeTxt {
         font-size: 3rem;

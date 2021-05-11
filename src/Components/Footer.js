@@ -4,36 +4,57 @@ import { Col, Row } from "react-bootstrap";
 export default function Footer() {
     return (
         <>
-            <Row className="bg-dark text-light  m-0 justify-content-around align-items-center p-3">
-                <Col md={6} lg={4} className="text-center p-1 text-uppercase  ">
-                    <h1 style={{ fontWeight: "bolder" }}>
+            <Row className="bg-dark text-light  m-0 justify-content-evenly align-items-center p-5">
+                <Col md={6} lg={3} className="text-center p-1 text-uppercase  ">
+                    <h2 style={{ fontWeight: "bolder" }}>
                         Phone Repair plus and Vapes
-                    </h1>
+                    </h2>
                 </Col>
                 <Col
                     md={6}
                     lg={4}
-                    className="text-center text-uppercase"
+                    className="mx-auto mb-md-0 mb-4"
                     style={{ fontWeight: "bolder" }}
                 >
-                    <div style={{fontWeight:"bolder"}}>
-                        <h1>Contact Us</h1>
-                        <h5 className="font-italic">Always Here To Help You</h5>
-                        <ul className="list-unstyled text-capitalize " style={{fontSize:"1.3rem"}}>
-                            <li>Phone: 01789507470, 07848372777</li>
-                            <li>
-                                Address: 31 henley street, stratford-upon-avon,
-                                CV37 6QW{" "}
-                            </li>
-                        </ul>
+                    <div
+                        className="Footerlist"
+                        style={{ fontWeight: "bolder" }}
+                    >
+                        <h3 className="text-center">Contact Us</h3>
+
+                        <table id="footerContact">
+                            <tbody>
+                                <tr>
+                                    <th>
+                                        <h4>Phone:-</h4>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>01789507470 </span> ,{" "}
+                                        <span>07848372777</span>{" "}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        <h4>Address:-</h4>
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <span>
+                                            31 Henley Street,
+                                            Stratford-Upon-Avon, CV37 6QW
+                                        </span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </Col>
-                <Col lg={4}>
-                    <Row>
-                        <h1
-                            className="border p-3 text-uppercase text-center"
-                            style={{ fontWeight: "bolder" }}
-                        >
+                <Col lg={4} className="text-center ">
+                    <Row className="justify-content-center align-items-center">
+                        <h1 className="p-3 text-uppercase ">
                             Thank You For Choosing Us!
                         </h1>
                     </Row>

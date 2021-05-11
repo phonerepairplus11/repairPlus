@@ -48,10 +48,8 @@ export default function MacBook() {
                         for a new phone, why not have the phone network
                         unlocked? This involves opening a phone, so that it can
                         be used on all networks, making switching providers both
-                        quick and painless. Prices for unlock start at $10, and
-                        most models can be unlocked in a couple of hours. Use
-                        our free quick estimate section to find out more about
-                        getting your phone unlocked.
+                        quick and painless.Minimum Prices for unlocking , and
+                        most models can be unlocked in a couple of hours.
                     </p>
                     <p>
                         <span className="text-dark font-weight-bold">

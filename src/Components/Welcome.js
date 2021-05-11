@@ -50,7 +50,7 @@ export default function Welcome() {
                 </Col>
             </Row>
             <Row className="p-0 m-0 p-md-3 " style={{ minHeight: "90vh" }}>
-                <Col lg={6} className="p-5">
+                <Col lg={6} style={{ minHeight: "60vh" }}>
                     <Slide left duration={1500} fraction={1}>
                         <div className="welcomeImg1"></div>
                     </Slide>
