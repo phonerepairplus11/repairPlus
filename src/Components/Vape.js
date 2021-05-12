@@ -57,32 +57,6 @@ export default function Vape() {
                     </p>
                     <p>
                         <span className="text-dark font-weight-bold">
-                            Smoke Intersifier -
-                        </span>
-                        Smartphone screens are brittle, and it's only a matter
-                        of time before you need your screen fixed - Our
-                        technicians have expertly repaired millions of screens
-                        over the years. There's literally not a problem we
-                        hasn't seen and solved. Our professionally trained and
-                        vetted Technicians are experts and will meet you and
-                        provide smartphone Repair- at your home, office or
-                        anywhere whichever is convenient for you.{" "}
-                    </p>
-                    <p>
-                        <span className="text-dark font-weight-bold">
-                            Filter Change –
-                        </span>
-                        Thankfully, even if devices can’t be repaired, there’s
-                        still a solution. If you have your device insured, or
-                        the device is covered under your home insurance policy,
-                        you shouldn’t have to foot the bill for replacing it. We
-                        can provide a full diagnostics of any device, and
-                        prepare an engineering report on the exact fault, or
-                        faults, do that you can have a qualified electronic
-                        engineer to back you up.
-                    </p>
-                    <p>
-                        <span className="text-dark font-weight-bold">
                             vape coil replacements –
                         </span>
                         With a wide selection of brands, we offer many different
