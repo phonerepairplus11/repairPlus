@@ -20,7 +20,12 @@ export default function Footer() {
                         className="Footerlist"
                         style={{ fontWeight: "bolder" }}
                     >
-                        <h3 className="text-center">Contact Us</h3>
+                        <h2
+                            className="text-center"
+                            style={{ textDecoration: "underline" }}
+                        >
+                            Contact Us
+                        </h2>
 
                         <table id="footerContact">
                             <tbody>
