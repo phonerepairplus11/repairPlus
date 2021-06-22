@@ -1,4 +1,9 @@
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import {
+    BrowserRouter as Router,
+    Redirect,
+    Route,
+    Switch,
+} from "react-router-dom";
 import About from "./About";
 import Contact from "./Contact";
 import Footer from "./Footer";
@@ -15,7 +20,6 @@ import BrandModels from "./BrandModels";
 import MacBook from "./MacBook";
 
 function App() {
-    console.log("help", process.env.PUBLIC_URL);
     return (
         <Router basename={process.env.PUBLIC_URL}>
             <ScrollToTop />
@@ -32,6 +36,7 @@ function App() {
                 <Route path="/Services" component={OurServices} />
                 <Route path="/Phone/:Model" component={ItemScreen} />
                 <Route path="/BrandModel/:Brand" component={BrandModels} />
+                <Redirect to="/" />{" "}
             </Switch>
             <Footer />
         </Router>

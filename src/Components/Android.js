@@ -50,7 +50,7 @@ export default function Android() {
                         </span>
                         Smartphone screens are brittle, and it's only a matter
                         of time before you need your screen fixed - Our
-                        technicians have expertly repaired millions of screens
+                        technicians have expertly repaired hundreds screens
                         over the years. There's literally not a problem we
                         hasn't seen and solved. Our professionally trained and
                         vetted Technicians are experts and will meet you and
