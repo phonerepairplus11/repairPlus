@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d728e50f.chunk.css",
-    "main.js": "/static/js/main.f8efda52.chunk.js",
-    "main.js.map": "/static/js/main.f8efda52.chunk.js.map",
+    "main.js": "/static/js/main.e183d2dc.chunk.js",
+    "main.js.map": "/static/js/main.e183d2dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a34c62ac.js",
     "runtime-main.js.map": "/static/js/runtime-main.a34c62ac.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.dc78c7d9.chunk.js": "/static/js/2.dc78c7d9.chunk.js",
-    "static/js/2.dc78c7d9.chunk.js.map": "/static/js/2.dc78c7d9.chunk.js.map",
+    "static/js/2.30545058.chunk.js": "/static/js/2.30545058.chunk.js",
+    "static/js/2.30545058.chunk.js.map": "/static/js/2.30545058.chunk.js.map",
     "static/js/3.b2c83a0b.chunk.js": "/static/js/3.b2c83a0b.chunk.js",
     "static/js/3.b2c83a0b.chunk.js.map": "/static/js/3.b2c83a0b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.d728e50f.chunk.css.map": "/static/css/main.d728e50f.chunk.css.map",
-    "static/js/2.dc78c7d9.chunk.js.LICENSE.txt": "/static/js/2.dc78c7d9.chunk.js.LICENSE.txt",
+    "static/js/2.30545058.chunk.js.LICENSE.txt": "/static/js/2.30545058.chunk.js.LICENSE.txt",
     "static/media/Android.f12fb7c4.svg": "/static/media/Android.f12fb7c4.svg",
     "static/media/Apple iPad 10.2 (2019).jpg": "/static/media/Apple iPad 10.2 (2019).07f21de4.jpg",
     "static/media/Apple iPad 10.2 (2020).jpg": "/static/media/Apple iPad 10.2 (2020).471f9183.jpg",
@@ -222,8 +222,8 @@
   "entrypoints": [
     "static/js/runtime-main.a34c62ac.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.dc78c7d9.chunk.js",
+    "static/js/2.30545058.chunk.js",
     "static/css/main.d728e50f.chunk.css",
-    "static/js/main.f8efda52.chunk.js"
+    "static/js/main.e183d2dc.chunk.js"
   ]
 }
